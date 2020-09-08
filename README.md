@@ -1,19 +1,24 @@
-## Hi there 🤗
+### Hi there 👋
 
-My name is Alexandra and I will be a Web Developer Intern starting with July 14, 2020 👩‍💻.
+My name is Alexandra and I am a Web Developer Intern.
 
-### Toolbox
+🌱 I’m currently learning React and TypeScript
 
-**Skills**: HTML, CSS, JavaScript
+🔭 I’m currently working on my [website](https://alexandracaulea.com)
 
-**Tools & Technologies**: Bootstrap, jQuery, SQL, Adobe Photoshop, Figma,Git, GitHub, Jest testing
+🌱 I've worked on many [projects](https://my-projects.netlify.app/)
 
-**Editor**: VSCode
+<!--
+**alexandracaulea/alexandracaulea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Debugger**: Chrome DevTools, Firefox Developer Tools
+Here are some ideas to get you started:
 
-### Learning
-
-- I'm currently learning React and how to test my code.
-
-A have a one page [website](http://alexandracaulea.com/).
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
