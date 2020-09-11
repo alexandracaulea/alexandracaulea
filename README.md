@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Alexandra and I am a Web Developer Intern.
+My name is Alexandra and I am a Front-End Developer Intern.
 
 🌱 I’m currently learning React and TypeScript
 
-🔭 I’m currently working on my [website](https://alexandracaulea.com)
+🌱 I’m currently working on my [website](https://alexandracaulea.com)
 
 🌱 I've worked on many [projects](https://my-projects.netlify.app/)
 
