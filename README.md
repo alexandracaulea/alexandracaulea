@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alexandra and I am a Front-End Developer Intern.
+My name is Alexandra and I am a Front-End Web Developer.
 
 🌱 I’m currently learning React and TypeScript
 
